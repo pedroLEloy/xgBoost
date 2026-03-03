@@ -28,7 +28,7 @@ except ImportError:
 # 📊 CONFIGURAÇÕES DO MODELO
 # ============================================================
 
-MODEL_PATH = r"C:\Users\9000306\Desktop\projeto_solvencia_pj\results\modelo_otimizado_balanced.json"
+MODEL_PATH = "modelo_otimizado_balanced.json"
 
 def verificar_modelo(path):
     """
